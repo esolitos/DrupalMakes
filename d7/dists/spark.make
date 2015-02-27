@@ -5,8 +5,8 @@ core = 7.x
 api = 2
 
 ; CORE
+projects[drupal][version] = 7.34
 projects[spark][version] = 7.x-1.0-beta1
 
-projects[rubik][type] = "theme"
-projects[zen][type] = "theme"
-projects[tao][type] = "theme"
+; Themes
+includes[remote] = "https://raw.github.com/esolitos/DrupalMakes/master/d7/themes.make"
