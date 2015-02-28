@@ -8,10 +8,10 @@ api = 2
 projects[drupal][version] = 7.34
 
 ; Devel Modules
-includes[remote] = "https://raw.github.com/esolitos/DrupalMakes/master/d7/modules/devel-modules.make"
+includes[devel] = "https://raw.github.com/esolitos/DrupalMakes/master/d7/modules/devel-modules.make"
 ; Modules
-includes[remote] = "https://raw.github.com/esolitos/DrupalMakes/master/d7/modules/basic-modules.make"
+includes[modules] = "https://raw.github.com/esolitos/DrupalMakes/master/d7/modules/basic-modules.make"
 ; Libraries
-includes[remote] = "https://raw.github.com/esolitos/DrupalMakes/master/d7/libraries/basic-libraries.make"
+includes[libraries] = "https://raw.github.com/esolitos/DrupalMakes/master/d7/libraries/basic-libraries.make"
 ; Themes
-includes[remote] = "https://raw.github.com/esolitos/DrupalMakes/master/d7/themes.make"
+includes[themes] = "https://raw.github.com/esolitos/DrupalMakes/master/d7/themes.make"
