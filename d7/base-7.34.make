@@ -7,8 +7,6 @@ api = 2
 ; CORE
 projects[drupal][version] = 7.34
 
-; Devel Modules
-includes[devel] = "https://raw.github.com/esolitos/DrupalMakes/master/d7/modules/devel-modules.make"
 ; Modules
 includes[modules] = "https://raw.github.com/esolitos/DrupalMakes/master/d7/modules/basic-modules.make"
 ; Libraries
