@@ -33,6 +33,7 @@ projects[absolute_messages][subdir] = "contrib"
 projects[mb][subdir] = "contrib"
 projects[chosen][subdir] = "contrib"
 projects[publication_date][subdir] = "contrib"
+projects[flippy][subdir] = "contrib"
 
 ; Admin UI
 projects[navbar][subdir] = "contrib"
@@ -69,6 +70,7 @@ projects[media][subdir] = "contrib"
 projects[transliteration][subdir] = "contrib"
 projects[image_resize_filter][subdir] = "contrib"
 projects[styles][subdir] = "contrib"
+projects[focal_point][subdir] = "contrib"
 
 ; Multilingual
 projects[i18n][subdir] = "contrib"
