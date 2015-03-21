@@ -14,3 +14,6 @@ projects[performance][subdir] = "development"
 
 projects[registry_rebuild][subdir] = "development"
 projects[xmlrpctester][subdir] = "development"
+
+; File Handling
+projects[stage_file_proxy][subdir] = "development"
