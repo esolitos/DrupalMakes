@@ -5,7 +5,7 @@ core = 7.x
 api = 2
 
 ; CORE
-projects[drupal][version] = 7.34
+projects[drupal][version] = 7.35
 
 ; Modules
 includes[modules] = "https://raw.github.com/esolitos/DrupalMakes/master/d7/modules/basic-modules.make"

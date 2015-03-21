@@ -5,8 +5,7 @@ core = 7.x
 api = 2
 
 ; CORE
-projects[drupal][version] = 7.34
-projects[drupal][patch][] = "https://www.drupal.org/files/drupal-1971068.patch"
+projects[drupal][version] = 7.35
 
 ; Devel Modules
 includes[devel] = "https://raw.github.com/esolitos/DrupalMakes/master/d7/modules/devel-modules.make"
