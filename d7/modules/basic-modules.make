@@ -23,7 +23,6 @@ projects[context][subdir] = "contrib"
 projects[strongarm][subdir] = "contrib"
 projects[variable][subdir] = "contrib"
 projects[entity][subdir] = "contrib"
-projects[file_entity][subdir] = "contrib"
 projects[save_edit][subdir] = "contrib"
 projects[ultimate_cron][subdir] = "contrib"
 projects[rules][subdir] = "contrib"
@@ -70,11 +69,16 @@ projects[admin_views][subdir] = "contrib"
 projects[views_slideshow][subdir] = "contrib"
 
 ; File Handling
-projects[media][subdir] = "contrib"
 projects[transliteration][subdir] = "contrib"
 projects[image_resize_filter][subdir] = "contrib"
 projects[styles][subdir] = "contrib"
 projects[focal_point][subdir] = "contrib"
+
+; Media and File entity use coordinated releases!
+projects[media][subdir] = "contrib"
+projects[media][version] = "2.0-alpha4"
+projects[file_entity][subdir] = "contrib"
+projects[file_entity][version] = "2.0-beta1"
 
 ; Multilingual
 projects[i18n][subdir] = "contrib"
