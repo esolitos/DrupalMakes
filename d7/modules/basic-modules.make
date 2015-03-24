@@ -34,6 +34,7 @@ projects[mb][subdir] = "contrib"
 projects[chosen][subdir] = "contrib"
 projects[publication_date][subdir] = "contrib"
 projects[flippy][subdir] = "contrib"
+projects[logintoboggan][subdir] = "contrib"
 
 ; Admin UI
 projects[navbar][subdir] = "contrib"
@@ -41,6 +42,7 @@ projects[module_filter][subdir] = "contrib"
 projects[field_group][subdir] = "contrib"
 projects[ds][subdir] = "contrib"
 projects[better_formats][subdir] = "contrib"
+projects[token][subdir] = "contrib"
 
 ; Menu
 projects[menu_attributes][subdir] = "contrib"
@@ -51,6 +53,8 @@ projects[elements][subdir] = "contrib"
 projects[entityreference][subdir] = "contrib"
 projects[entityreference_view_widget][subdir] = "contrib"
 projects[field_group][subdir] = "contrib"
+projects[field_collection][subdir] = "contrib"
+projects[link][subdir] = "contrib"
 projects[video_embed_field][subdir] = "contrib"
 
 ; Content Creation

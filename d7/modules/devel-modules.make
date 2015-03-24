@@ -5,6 +5,7 @@ core = 7.x
 api = 2
 
 ; DEVELOPMENT
+projects[eck][subdir] = "development"
 projects[devel][subdir] = "development"
 projects[devel_themer][subdir] = "development"
 projects[devel_contrib][subdir] = "development"
