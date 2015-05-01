@@ -26,6 +26,7 @@ projects[entity][subdir] = "contrib"
 projects[save_edit][subdir] = "contrib"
 projects[ultimate_cron][subdir] = "contrib"
 projects[rules][subdir] = "contrib"
+projects[honeypot][subdir] = "contrib"
 
 ; User Interface
 projects[absolute_messages][subdir] = "contrib"
@@ -34,6 +35,8 @@ projects[chosen][subdir] = "contrib"
 projects[publication_date][subdir] = "contrib"
 projects[flippy][subdir] = "contrib"
 projects[logintoboggan][subdir] = "contrib"
+projects[weight][subdir] = "contrib"
+projects[colorbox][subdir] = "contrib"
 
 ; Admin UI
 projects[navbar][subdir] = "contrib"
@@ -61,6 +64,9 @@ projects[ckeditor][subdir] = "contrib"
 projects[ckeditor_link][subdir] = "contrib"
 projects[date][subdir] = "contrib"
 projects[webform][subdir] = "contrib"
+projects[webform_validation][subdir] = "contrib"
+projects[webform_localization][subdir] = "contrib"
+projects[typogrify][subdir] = "contrib"
 
 ; Views
 projects[views][subdir] = "contrib"
@@ -91,6 +97,7 @@ projects[globalredirect][subdir] = "contrib"
 projects[pathauto][subdir] = "contrib"
 projects[pathologic][subdir] = "contrib"
 projects[metatag][subdir] = "contrib"
+projects[google_analytics][subdir] = "contrib"
 
 
 ; ------ WARNING EXPERIMENTAL MODULES
