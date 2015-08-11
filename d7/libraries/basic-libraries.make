@@ -60,8 +60,9 @@ libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/
 libraries[flexslider][directory_name] = "flexslider"
 libraries[flexslider][type] = "library"
 
-libraries[jquery.placeholder][download][type] = "get"
-libraries[jquery.placeholder][download][url] = "https://github.com/mathiasbynens/jquery-placeholder/archive/master.zip"
+libraries[jquery.placeholder][download][type] = "git"
+libraries[jquery.placeholder][download][url] = "httpshttps://github.com/mathiasbynens/jquery-placeholder.git"
+libraries[jquery.placeholder][tag] = "v2.1.2"
 libraries[jquery.placeholder][directory_name] = "jquery.placeholder"
 libraries[jquery.placeholder][type] = "library"
 
