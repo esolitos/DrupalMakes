@@ -35,7 +35,7 @@ libraries[underscore][type] = "library"
 
 ; Modernizr (navbar)
 libraries[modernizr][download][type] = "get"
-libraries[modernizr][download][url] = "http://modernizr.com/downloads/modernizr-latest.js"
+libraries[modernizr][download][url] = "https://github.com/Modernizr/Modernizr/archive/v2.8.3.zip"
 libraries[modernizr][directory_name] = "modernizr"
 libraries[modernizr][type] = "library"
 
