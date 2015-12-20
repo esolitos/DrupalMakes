@@ -7,12 +7,21 @@ api = 2
 ; BACKUP
 projects[backup_migrate][subdir] = "contrib"
 
+; Security
+; projects[tfa][subdir]            = "contrib"
+projects[seckit][subdir]           = "security"
+projects[securelogin][subdir]      = "security"
+; projects[login_security][subdir] = "contrib"
+projects[session_limit][subdir]    = "security"
+projects[password_policy][subdir]  = "security"
+projects[taxonomy_access][subdir]  = "security"
+
 ; Performance and Caching
 projects[advagg][subdir] = "contrib"
 projects[cacheflush][subdir] = "contrib"
 projects[cache_actions][subdir] = "contrib"
 
-; Essenctials
+; Essentials
 projects[libraries][subdir] = "contrib"
 projects[jquery_update][subdir] = "contrib"
 projects[panels][subdir] = "contrib"
