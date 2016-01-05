@@ -9,12 +9,13 @@ projects[backup_migrate][subdir] = "contrib"
 
 ; Security
 ; projects[tfa][subdir]               = "security"
+; projects[login_security][subdir]    = "security"
 projects[seckit][subdir]              = "security"
 projects[securelogin][subdir]         = "security"
-; projects[login_security][subdir]    = "security"
 projects[session_limit][subdir]       = "security"
 projects[password_policy][subdir]     = "security"
 projects[taxonomy_access_fix][subdir] = "security"
+projects[publishcontent][subdir]      = "security"
 
 
 ; Performance and Caching
