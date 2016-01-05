@@ -119,6 +119,14 @@ projects[pathologic][subdir]       = "contrib"
 projects[metatag][subdir]          = "contrib"
 projects[google_analytics][subdir] = "contrib"
 
+; Searching
+projects[search_api][subdir]            = "search"
+projects[search_api_db][subdir]         = "search"
+projects[search_api_solr][subdir]       = "search"
+projects[search_api_ajax][subdir]       = "search"
+projects[facetapi][subdir]              = "search"
+projects[facetapi_pretty_paths][subdir] = "search"
+
 
 
 ; ------ WARNING EXPERIMENTAL MODULES
