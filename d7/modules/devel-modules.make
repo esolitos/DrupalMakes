@@ -10,12 +10,12 @@ projects[security_review][subdir] = "security"
 
 
 ; DEVELOPMENT
-projects[eck][subdir]              = "development"
-projects[devel][subdir]            = "development"
-projects[devel_themer][subdir]     = "development"
-projects[devel_contrib][subdir]    = "development"
-projects[diff][subdir]             = "development"
 projects[coder][subdir]            = "development"
+projects[devel][subdir]            = "development"
+projects[devel_contrib][subdir]    = "development"
+projects[devel_themer][subdir]     = "development"
+projects[diff][subdir]             = "development"
+projects[eck][subdir]              = "development"
 projects[performance][subdir]      = "development"
 projects[registry_rebuild][subdir] = "development"
 projects[xmlrpctester][subdir]     = "development"
