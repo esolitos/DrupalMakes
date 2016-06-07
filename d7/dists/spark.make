@@ -5,7 +5,9 @@ core = 7.x
 api = 2
 
 ; CORE
-projects[drupal][version] = 7.35
+projects[] = drupal
+
+projects[spark][type] = "profile"
 projects[spark][version] = 1.0-beta1
 
 ; Themes
