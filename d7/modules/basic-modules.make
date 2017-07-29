@@ -23,6 +23,7 @@ projects[tfa][subdir]                 = "security"
 projects[advagg][subdir]        = "caching"
 projects[cacheflush][subdir]    = "caching"
 projects[cache_actions][subdir] = "caching"
+projects[redis][subdir]         = "caching"
 
 
 ; Essentials
