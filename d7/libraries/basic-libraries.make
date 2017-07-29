@@ -83,3 +83,10 @@ libraries[jquery.placeholder][download][url] = "https://github.com/mathiasbynens
 libraries[jquery.placeholder][tag] = "v2.1.2"
 libraries[jquery.placeholder][directory_name] = "jquery.placeholder"
 libraries[jquery.placeholder][type] = "library"
+
+; Predis for Redis module
+libraries[jquery.placeholder][download][type] = "git"
+libraries[jquery.placeholder][download][url] = "https://github.com/nrk/predis.git"
+libraries[jquery.placeholder][tag] = "v1.1.1"
+libraries[jquery.placeholder][directory_name] = "predis"
+libraries[jquery.placeholder][type] = "library"
